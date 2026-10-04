@@ -1,0 +1,50 @@
+{
+  "version": "0.1.0-development",
+  "files": [
+    {
+      "path": "drive_lookup.json",
+      "bytes": 94031,
+      "sha256": "644636ca78a1e7e3b91914ef0c8ef935d8481745485178c27694117e87886a13"
+    },
+    {
+      "path": "examples/train.csv",
+      "bytes": 653669,
+      "sha256": "a64bcd7dc56e8cbbd7474c011118db37ff069af1a8b5c19ef3c8046280d1024b"
+    },
+    {
+      "path": "examples/train_labels.csv",
+      "bytes": 15480,
+      "sha256": "41c6391f299f025a859be0b803a95fa92ef91b4bec4317e8d1d98653b6559671"
+    },
+    {
+      "path": "generate_examples.py",
+      "bytes": 2188,
+      "sha256": "7c7d239ac39c790537bba80118ba9d927b89ccb1946e041574b379098534dc7b"
+    },
+    {
+      "path": "LICENSE_CODE.txt",
+      "bytes": 1097,
+      "sha256": "d97c68a3a5edf6b48b606a3ef3573be2fedd03379e208d241367df590ddd8e61"
+    },
+    {
+      "path": "LICENSE_DATA.md",
+      "bytes": 397,
+      "sha256": "628e98726276febe6f8584513fed1a3b467c7ffb554a0e7f22dccfaf828e2378"
+    },
+    {
+      "path": "physics.py",
+      "bytes": 3663,
+      "sha256": "388b9319640faa86f9cc7d884246c404133439bfa913a726de50f66489a62903"
+    },
+    {
+      "path": "README.md",
+      "bytes": 5189,
+      "sha256": "d340d9a36f701e078442d0e2ad6b98554da82b6b0fd91bbf6ee11f572d9ceda0"
+    },
+    {
+      "path": "requirements.txt",
+      "bytes": 15,
+      "sha256": "105a25c9a24a53a42b52ccc93f930e1ea4a88b42372d440ae7c1b82c3a8b2c64"
+    }
+  ]
+}
